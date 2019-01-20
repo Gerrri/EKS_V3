@@ -12,9 +12,5 @@
         <module name="impl2" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="anwendung" target="1.5" />
-      <module name="impl2" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>

@@ -1,11 +1,11 @@
 package de.thkoeln.eksc.osgi.VerwaltungNummern.impl;
 
-import org.osgi.framework.BundleActivator;
-import org.osgi.framework.BundleContext;
-import org.osgi.framework.ServiceRegistration;
-import de.thkoeln.eksc.osgi.zentraledienste.VerwaltungNummern;
+        import org.osgi.framework.BundleActivator;
+        import org.osgi.framework.BundleContext;
+        import org.osgi.framework.ServiceRegistration;
+        import de.thkoeln.eksc.osgi.zentraledienste.VerwaltungNummern;
 
-import java.util.Hashtable;
+        import java.util.Hashtable;
 
 public class ActivatorImpl_VerwaltungNummernImpl implements BundleActivator {
 
