@@ -5,36 +5,50 @@
     <parent>
         <artifactId>EKSC</artifactId>
         <groupId>de.thkoeln.eksc</groupId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>impl2</artifactId>
+    <version>1.0</version>
+    <packaging>bundle</packaging>
+    <dependencies>
+
+        <dependency>
+            <groupId>de.thkoeln.eksc</groupId>
+            <artifactId>basisklassen</artifactId>
+            <version>1.0</version>
+            <scope>compile</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>de.thkoeln.eksc</groupId>
+            <artifactId>impl1</artifactId>
+            <version>1.0</version>
+            <scope>compile</scope>
+        </dependency>
+
+
+    </dependencies>
+
+
     <build>
         <plugins>
             <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-compiler-plugin</artifactId>
+                <groupId>org.apache.felix</groupId>
+                <artifactId>maven-bundle-plugin</artifactId>
+                <extensions>true</extensions>
+                <version>3.3.0</version>
                 <configuration>
-                    <source>6</source>
-                    <target>6</target>
+                    <instructions>
+                        <Import-Package>org.osgi.framework, de.thkoeln.eksc.osgi.zentraledienste,de.thkoeln.eksc.osgi.reiseverwaltung, de.thkoeln.eksc.osgi.entitaetsklassen</Import-Package>
+                        <Bundle-Activator>de.thkoeln.eksc.osgi.reiseverwaltung.impl.ActivatorImplReiseVeranstalterVerwaltung</Bundle-Activator>
+                        <Private-Package>de.thkoeln.eksc.osgi.reiseverwaltung.impl</Private-Package>
+                    </instructions>
                 </configuration>
             </plugin>
         </plugins>
     </build>
-    <dependencies>
-        <dependency>
-            <groupId>de.thkoeln.eksc</groupId>
-            <artifactId>basisklasse</artifactId>
-            <version>1.0-SNAPSHOT</version>
-            <scope>compile</scope>
-        </dependency>
-        <dependency>
-            <groupId>org.apache.felix</groupId>
-            <artifactId>org.apache.felix.framework</artifactId>
-            <version>6.0.1</version>
-        </dependency>
-    </dependencies>
 
 
 </project>

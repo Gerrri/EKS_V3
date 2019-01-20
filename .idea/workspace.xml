@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d67366c-9e5e-45ca-96f8-0178b679e934" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/impl2/src/main/java/de/thkoeln/eksc/osgi/ReiseVeranstalterVerwaltung/impl/ActivatorImpl_ReiseVeranstalterVerwaltungImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anwendung/anwendung.iml" beforeDir="false" afterPath="$PROJECT_DIR$/anwendung/anwendung.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/impl1/src/main/java/de/thkoeln/eksc/osgi/VerwaltungNummern/impl/ActivatorImpl_VerwaltungNummernImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/impl1/src/main/java/de/thkoeln/eksc/osgi/VerwaltungNummern/impl/ActivatorImpl_VerwaltungNummernImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/impl2/impl2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/impl2/impl2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/impl2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/impl2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/impl2/src/main/java/de/thkoeln/eksc/osgi/ReiseVeranstalterVerwaltung/impl/ReiseVeranstalterVerwaltungImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/impl2/src/main/java/de/thkoeln/eksc/osgi/ReiseVeranstalterVerwaltung/impl/ReiseVeranstalterVerwaltungImpl.java" afterDir="false" />
-    </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/basisklasse/target/" />
+    <list default="true" id="73b25e2c-219d-4a07-9059-07ac70850ed7" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/impl1/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/basisklassen/target/" />
     <ignored path="$PROJECT_DIR$/impl2/target/" />
     <ignored path="$PROJECT_DIR$/anwendung/target/" />
+    <ignored path="$PROJECT_DIR$/Mainclass/target/" />
+    <ignored path="$PROJECT_DIR$/TEST/target/" />
+    <ignored path="$PROJECT_DIR$/TestClass/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,117 +19,25 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/impl1/src/main/java/de/thkoeln/eksc/osgi/VerwaltungNummern/impl/ActivatorImpl_VerwaltungNummernImpl.java">
+        <entry file="file://$PROJECT_DIR$/anwendung/src/main/java/de/thkoeln/eksc/osgi/client/ActivatorAnwendung.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" selection-start-column="1" selection-end-line="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#608#623#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/impl2/src/main/java/de/thkoeln/eksc/osgi/ReiseVeranstalterVerwaltung/impl/ActivatorImpl_ReiseVeranstalterVerwaltungImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="827">
+              <caret line="55" column="33" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/anwendung/src/main/java/de/thkoeln/eksc/osgi/anwendung/main_anwendung.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/impl2/src/main/java/de/thkoeln/eksc/osgi/ReiseVeranstalterVerwaltung/impl/ReiseVeranstalterVerwaltungImpl.java">
+        <entry file="file://$PROJECT_DIR$/TestClass/src/main/java/Test_Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1728#1729#0" expanded="true" />
-                <element signature="e#1775#1776#0" expanded="true" />
-                <element signature="e#2023#2024#0" expanded="true" />
-                <element signature="e#2050#2051#0" expanded="true" />
-                <element signature="e#2620#2627#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basisklasse/src/main/java/de/thkoeln/eksc/osgi/reiseverwaltung/ReiseVeranstalterVerwaltung.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+            <state relative-caret-position="239">
+              <caret line="86" selection-start-line="86" selection-end-line="86" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basisklasse/src/main/java/de/thkoeln/eksc/osgi/zentraledienste/VerwaltungNummern.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basisklasse/src/main/java/de/thkoeln/eksc/osgi/entitaetsklassen/alleVeranstalter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
-              <folding>
-                <element signature="e#527#528#0" expanded="true" />
-                <element signature="e#566#567#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basisklasse/src/main/java/de/thkoeln/eksc/osgi/entitaetsklassen/Veranstalter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="43" column="28" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="28" />
-              <folding>
-                <element signature="e#1205#1206#0" expanded="true" />
-                <element signature="e#1234#1235#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/impl1/src/main/java/de/thkoeln/eksc/osgi/VerwaltungNummern/impl/VerwaltungsNummernImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="61" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -148,37 +48,87 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>de.thkoeln.eks.impl1</find>
+    </findStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/impl1/src/main/java/de/thkoeln/eksc/osgi/zentraledienste/impl/VerwaltungNummenImpl.java" />
+        <option value="$PROJECT_DIR$/impl2/src/main/java/de/thkoeln/eksc/osgi/reiseverwaltung/impl/ReiseVeranstalterVerwaltung.java" />
+        <option value="$PROJECT_DIR$/basisklassen/src/main/java/de/thkoeln/eksc/osgi/entitaetsklassen/ReiseSingleton.java" />
+        <option value="$PROJECT_DIR$/basisklassen/src/main/java/de/thkoeln/eksc/osgi/entitaetsklassen/Reise.java" />
+        <option value="$PROJECT_DIR$/basisklassen/src/main/java/de/thkoeln/eksc/osgi/entitaetsklassen/VeranstalterSingleton.java" />
+        <option value="$PROJECT_DIR$/impl2/src/main/java/de/thkoeln/eksc/osgi/reiseverwaltung/impl/ActivatorVewaltungNummern.java" />
+        <option value="$PROJECT_DIR$/anwendung/src/main/java/de/thkoeln/eksc/osgi/client/Anwendung.java" />
+        <option value="$PROJECT_DIR$/impl1/target/classes/META-INF/MANIFEST.MF" />
+        <option value="$PROJECT_DIR$/TEST/src/main/java/de/thkoeln/eksc/osgi/test/TestInterface.java" />
+        <option value="$PROJECT_DIR$/TEST/src/main/java/de/thkoeln/eksc/osgi/test/TestImpl.java" />
+        <option value="$PROJECT_DIR$/TEST/src/main/java/de/thkoeln/eksc/osgi/test/Test.java" />
+        <option value="$PROJECT_DIR$/Mainclass/pom.xml" />
+        <option value="$PROJECT_DIR$/TEST/src/main/java/de/thkoeln/eksc/osgi/test/impl/Test.java" />
+        <option value="$PROJECT_DIR$/TEST/pom.xml" />
+        <option value="$PROJECT_DIR$/impl1/pom.xml" />
+        <option value="$PROJECT_DIR$/impl1/src/main/java/de/thkoeln/eksc/osgi/zentraledienste/impl/ActivatorImplVerwaltungNummern.java" />
+        <option value="$PROJECT_DIR$/Mainclass/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/basisklassen/src/main/java/de/thkoeln/eksc/osgi/entitaetsklassen/Veranstalter.java" />
+        <option value="$PROJECT_DIR$/anwendung/pom.xml" />
+        <option value="$PROJECT_DIR$/impl2/pom.xml" />
         <option value="$PROJECT_DIR$/basisklassen/pom.xml" />
+        <option value="$PROJECT_DIR$/impl2/src/main/java/de/thkoeln/eksc/osgi/reiseverwaltung/impl/ReiseVeranstalterVerwaltungImpl.java" />
+        <option value="$PROJECT_DIR$/basisklassen/src/main/java/de/thkoeln/eksc/osgi/entitaetsklassen/alleReisen.java" />
+        <option value="$PROJECT_DIR$/basisklassen/src/main/java/de/thkoeln/eksc/osgi/entitaetsklassen/alleVeranstalter.java" />
+        <option value="$PROJECT_DIR$/impl1/src/main/java/de/thkoeln/eksc/osgi/zentraledienste/impl/ActivatorImpl_VerwaltungNummernImpl.java" />
+        <option value="$PROJECT_DIR$/impl1/src/main/java/de/thkoeln/eksc/osgi/zentraledienste/impl/VerwaltungNummernImpl.java" />
+        <option value="$PROJECT_DIR$/impl2/src/main/java/de/thkoeln/eksc/osgi/reiseverwaltung/impl/ActivatorImplReiseVeranstalterVerwaltung.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/osgi/entitaetsklassen/VeranstalterSingleton.java" />
-        <option value="$PROJECT_DIR$/basisklasse/src/main/java/osgi/entitaetsklassen/VeranstalterSingleton.java" />
-        <option value="$PROJECT_DIR$/basisklasse/src/main/java/osgi/reiseverwaltung/ReiseVeranstalterVerwaltung.java" />
-        <option value="$PROJECT_DIR$/basisklasse/src/main/java/de/thkoeln/eksc/osgi/reiseverwaltung/ReiseVeranstalterVerwaltung.java" />
-        <option value="$PROJECT_DIR$/anwendung/src/main/java/de/thkoeln/eksc/osgi/anwendung/main_anwendung.java" />
-        <option value="$PROJECT_DIR$/impl1/src/main/java/de/thkoeln/eksc/osgi/zentraldienst/impl/VerwaltungsNummernImpl.java" />
-        <option value="$PROJECT_DIR$/basisklasse/src/main/java/de/thkoeln/eksc/osgi/entitaetsklassen/alleReisen.java" />
-        <option value="$PROJECT_DIR$/impl1/src/main/java/de/thkoeln/eksc/osgi/VerwaltungNummern/impl/VerwaltungsNummernImpl.java" />
-        <option value="$PROJECT_DIR$/impl1/src/main/java/de/thkoeln/eksc/osgi/VerwaltungNummern/impl/ActivatorImplVerwaltungNummern.java" />
-        <option value="$PROJECT_DIR$/impl1/src/main/java/de/thkoeln/eksc/osgi/VerwaltungNummern/impl/ActivatorImplVerwaltungNummernImpl.java" />
-        <option value="$PROJECT_DIR$/impl2/src/main/java/de/thkoeln/eksc/osgi/ReiseVeranstalterVerwaltung/impl/ReiseVeranstalterVerwaltungImpl.java" />
-        <option value="$PROJECT_DIR$/impl1/src/main/java/de/thkoeln/eksc/osgi/VerwaltungNummern/impl/ActivatorImpl_VerwaltungNummernImpl.java" />
-        <option value="$PROJECT_DIR$/impl2/src/main/java/de/thkoeln/eksc/osgi/ReiseVeranstalterVerwaltung/impl/ActivatorImpl_ReiseVeranstalterVerwaltungImpl.java" />
+        <option value="$PROJECT_DIR$/TestClass/src/main/java/Test_Main.java" />
+        <option value="$PROJECT_DIR$/anwendung/src/main/java/de/thkoeln/eksc/osgi/client/ActivatorAnwendung.java" />
       </list>
     </option>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="basisklassen" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="basisklassen" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="impl1" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="impl1" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1272" />
-    <option name="width" value="1297" />
-    <option name="height" value="1398" />
+    <option name="x" value="-9" />
+    <option name="width" value="1298" />
+    <option name="height" value="1399" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -189,233 +139,26 @@
         <subPane>
           <expand>
             <path>
-              <item name="EKS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EKS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EKS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EKS" type="462c0819:PsiDirectoryNode" />
-              <item name="basisklasse" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EKS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EKS" type="462c0819:PsiDirectoryNode" />
-              <item name="basisklasse" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EKS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EKS" type="462c0819:PsiDirectoryNode" />
-              <item name="basisklasse" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EKS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EKS" type="462c0819:PsiDirectoryNode" />
-              <item name="basisklasse" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EKS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EKS" type="462c0819:PsiDirectoryNode" />
-              <item name="basisklasse" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="osgi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EKS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EKS" type="462c0819:PsiDirectoryNode" />
-              <item name="basisklasse" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="osgi" type="462c0819:PsiDirectoryNode" />
-              <item name="entitaetsklassen" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EKS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EKS" type="462c0819:PsiDirectoryNode" />
-              <item name="basisklasse" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="osgi" type="462c0819:PsiDirectoryNode" />
-              <item name="reiseverwaltung" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EKS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EKS" type="462c0819:PsiDirectoryNode" />
-              <item name="basisklasse" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="osgi" type="462c0819:PsiDirectoryNode" />
-              <item name="zentraledienste" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EKS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EKS" type="462c0819:PsiDirectoryNode" />
-              <item name="impl1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EKS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EKS" type="462c0819:PsiDirectoryNode" />
-              <item name="impl1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EKS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EKS" type="462c0819:PsiDirectoryNode" />
-              <item name="impl1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EKS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EKS" type="462c0819:PsiDirectoryNode" />
-              <item name="impl1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EKS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EKS" type="462c0819:PsiDirectoryNode" />
-              <item name="impl1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EKS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EKS" type="462c0819:PsiDirectoryNode" />
-              <item name="impl2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EKS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EKS" type="462c0819:PsiDirectoryNode" />
-              <item name="impl2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EKS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EKS" type="462c0819:PsiDirectoryNode" />
-              <item name="impl2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EKS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EKS" type="462c0819:PsiDirectoryNode" />
-              <item name="impl2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EKS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EKS" type="462c0819:PsiDirectoryNode" />
-              <item name="impl2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EKS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Production'; set:Production; class com.intellij.psi.search.scope.ProjectProductionScope">
-          <expand>
-            <path>
-              <item name="EKS" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="EKS" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="EKS" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="EKS" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="EKS" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="EKS" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="EKS" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="basisklasse" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="EKS" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="basisklasse" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="EKS" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="basisklasse" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="EKS" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="EKS" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="EKS" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="EKS" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="EKS" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="EKS" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="EKSC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EKS_V3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547983532680" />
-    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548011622921" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Data\Coding\IntelliJ\EKS\basisklasse\src\main\java" />
-      <recent name="D:\Data\Coding\IntelliJ\EKS\src\main\java" />
-      <recent name="D:\Data\Coding\IntelliJ\EKS\basisklassen\src\main\java" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="de.thkoeln.eksc.osgi.ReiseVeranstalterVerwaltung.impl" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Data\Coding\IntelliJ\EKS" />
-      <recent name="D:\Data\Coding\IntelliJ\EKS\basisklassen\src\main\java\de" />
-    </key>
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -429,221 +172,345 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Application.Test_Main">
+    <configuration name="Anwendung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.thkoeln.eksc.osgi.client.Anwendung" />
+      <module name="anwendung" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.thkoeln.eksc.osgi.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test_Main" />
+      <module name="TestClass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test_Main" />
+        <item itemvalue="Application.Anwendung" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4d67366c-9e5e-45ca-96f8-0178b679e934" name="Default Changelist" comment="" />
-      <created>1547910022278</created>
+      <changelist id="73b25e2c-219d-4a07-9059-07ac70850ed7" name="Default Changelist" comment="" />
+      <created>1546019564303</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1547910022278</updated>
+      <updated>1546019564303</updated>
+      <workItem from="1547032907456" duration="1306000" />
+      <workItem from="1547034264898" duration="637000" />
+      <workItem from="1547034951284" duration="452000" />
+      <workItem from="1547036067468" duration="1858000" />
+      <workItem from="1547118011640" duration="4998000" />
+      <workItem from="1547196394049" duration="696000" />
+      <workItem from="1547197175671" duration="11648000" />
+      <workItem from="1547628074756" duration="621000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22216000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21678321" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16133866" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32696176" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3279678" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.63380283" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32997987" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32897383" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50075644" side_tool="true" weight="0.32861635" />
       <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.34665334" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3836276" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3443396" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3297546" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50075644" side_tool="true" weight="0.32861635" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.5553772" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/basisklassen/src/main/java/Reise" />
-    <entry file="file://$PROJECT_DIR$/basisklassen/src/main/java/test/ActivatorAnwendung.java" />
-    <entry file="file://$PROJECT_DIR$/basisklassen/src/main/java/de/osgi/entitaetsklassen/Veranstalter.java" />
-    <entry file="file://$PROJECT_DIR$/basisklassen/src/main/java/de/osgi/entitaetsklassen/VeranstalterSingleton.java" />
-    <entry file="file://$PROJECT_DIR$/basisklassen/src/main/java/de/osgi/entitaetsklassen/ReiseSingleton.java" />
-    <entry file="file://$PROJECT_DIR$/basisklassen/src/main/java/de/osgi/zentraledienste/VerwaltungNummern.java" />
-    <entry file="file://$PROJECT_DIR$/basisklassen/src/main/java/de/osgi/entitaetsklassen/Reise.java" />
-    <entry file="file://$PROJECT_DIR$/basisklassen/src/main/java/de/osgi/reiseverwaltung/ReiseVeranstalterVerwaltung.java" />
-    <entry file="file://$PROJECT_DIR$/basisklassen/pom.xml" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/osgi/entitaetsklassen/Reise.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/osgi/entitaetsklassen/Veranstalter.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/osgi/zentraledienste/VerwaltungNummern.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/osgi/reiseverwaltung/ReiseVeranstalterVerwaltung.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/osgi/entitaetsklassen/ReiseSingleton.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/osgi/entitaetsklassen/VeranstalterSingleton.java" />
-    <entry file="file://$PROJECT_DIR$/basisklasse/pom.xml">
+    <entry file="file://$PROJECT_DIR$/impl1/impl1.iml" />
+    <entry file="file://$PROJECT_DIR$/basisklassen/target/classes/de/thkoeln/eksc/osgi/reiseverwaltung/ReiseVeranstalterVerwaltung.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/basisklasse/src/main/java/de/thkoeln/eksc/osgi/entitaetsklassen/Reise.java">
+    <entry file="file://$PROJECT_DIR$/impl1/target/classes/de/thkoeln/eksc/osgi/zentraledienste/impl/ActivatorImplVerwaltungNummern.class" />
+    <entry file="file://$PROJECT_DIR$/impl2/src/main/java/de/thkoeln/eksc/osgi/reiseverwaltung/impl/ActivatorVewaltungNummernConsumer.java" />
+    <entry file="file://$PROJECT_DIR$/anwendung/src/main/java/de/thkoeln/eksc/osgi/client/Anwendung.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/felix/org.apache.felix.framework/6.0.1/org.apache.felix.framework-6.0.1.jar!/org/apache/felix/framework/BundleRevisionImpl.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/felix/org.apache.felix.framework/6.0.1/org.apache.felix.framework-6.0.1.jar!/org/apache/felix/framework/BundleImpl.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/felix/org.apache.felix.framework/6.0.1/org.apache.felix.framework-6.0.1.jar!/org/apache/felix/framework/util/Util.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/osgi/org.osgi.core/6.0.0/org.osgi.core-6.0.0.jar!/org/osgi/framework/Constants.class" />
+    <entry file="file://$PROJECT_DIR$/impl2/impl2.iml" />
+    <entry file="file://$PROJECT_DIR$/impl2/target/classes/de/thkoeln/eksc/osgi/reiseverwaltung/impl/ActivatorImplReiseVeranstalterVerwaltung.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="-153">
+          <folding>
+            <element signature="e#0#1200#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basisklasse/src/main/java/de/thkoeln/eksc/osgi/entitaetsklassen/alleReisen.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/net/URLClassLoader.java" />
+    <entry file="file://$PROJECT_DIR$/impl2/target/classes/META-INF/MANIFEST.MF" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/osgi/org.osgi.core/6.0.0/org.osgi.core-6.0.0.jar!/org/osgi/framework/BundleActivator.class" />
+    <entry file="file://$PROJECT_DIR$/TEST/target/classes/META-INF/MANIFEST.MF" />
+    <entry file="file://$PROJECT_DIR$/impl1/target/classes/META-INF/MANIFEST.MF" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/felix/org.apache.felix.framework/6.0.1/org.apache.felix.framework-6.0.1.jar!/org/apache/felix/framework/Felix.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/osgi/org.osgi.core/6.0.0/org.osgi.core-6.0.0.jar!/org/osgi/framework/Bundle.class" />
+    <entry file="file://$PROJECT_DIR$/TEST/src/main/java/de/thkoeln/eksc/osgi/test/TestInterface.java" />
+    <entry file="file://$PROJECT_DIR$/TEST/src/main/java/de/thkoeln/eksc/osgi/test/TestImpl.java" />
+    <entry file="file://$PROJECT_DIR$/TEST/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/TEST/src/main/java/de/thkoeln/eksc/osgi/test/impl/Test.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/felix/org.apache.felix.framework/6.0.1/org.apache.felix.framework-6.0.1.jar!/org/apache/felix/framework/util/SecureAction.class" />
+    <entry file="file://$PROJECT_DIR$/../EKS_Prak3_Vorb-master/basisklassen/src/main/java/de/thkoeln/eks/osgi/basic/Buch.java" />
+    <entry file="file://$PROJECT_DIR$/basisklassen/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="527">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/osgi/org.osgi.core/6.0.0/org.osgi.core-6.0.0.jar!/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/impl1/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basisklassen/src/main/java/de/thkoeln/eksc/osgi/entitaetsklassen/alleReisen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+          <folding>
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basisklassen/src/main/java/de/thkoeln/eksc/osgi/entitaetsklassen/alleVeranstalter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="50" column="21" lean-forward="true" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
+          <folding>
+            <element signature="e#832#833#0" expanded="true" />
+            <element signature="e#883#884#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basisklassen/src/main/java/de/thkoeln/eksc/osgi/entitaetsklassen/Reise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basisklassen/src/main/java/de/thkoeln/eksc/osgi/entitaetsklassen/Veranstalter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="77" selection-start-line="10" selection-start-column="77" selection-end-line="10" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basisklassen/src/main/java/de/thkoeln/eksc/osgi/reiseverwaltung/ReiseVeranstalterVerwaltung.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-297">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basisklassen/src/main/java/de/thkoeln/eksc/osgi/zentraledienste/VerwaltungNummern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/anwendung/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="10" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/impl1/src/main/java/de/thkoeln/eksc/osgi/zentraledienste/impl/ActivatorImpl_VerwaltungNummernImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="68" selection-start-line="22" selection-start-column="68" selection-end-line="22" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/impl1/src/main/java/de/thkoeln/eksc/osgi/zentraledienste/impl/VerwaltungNummernImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/impl2/src/main/java/de/thkoeln/eksc/osgi/reiseverwaltung/impl/ActivatorImplReiseVeranstalterVerwaltung.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/impl2/src/main/java/de/thkoeln/eksc/osgi/reiseverwaltung/impl/ReiseVeranstalterVerwaltungImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="593">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/impl2/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/felix/org.apache.felix.framework/6.0.1/org.apache.felix.framework-6.0.1.jar!/org/osgi/framework/BundleContext.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="43" column="27" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+        <state relative-caret-position="383">
+          <caret line="46" column="35" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="35" />
         </state>
       </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/felix/org.apache.felix.framework/6.0.1/org.apache.felix.framework-6.0.1.jar!/org/apache/felix/framework/BundleContextImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2210">
-          <caret line="157" column="83" selection-start-line="157" selection-start-column="76" selection-end-line="157" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/impl1/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/impl1/impl1.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitattributes">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EKS.iml">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        <state relative-caret-position="289">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basisklasse/src/main/java/de/thkoeln/eksc/osgi/reiseverwaltung/ReiseVeranstalterVerwaltung.java">
+    <entry file="file://$PROJECT_DIR$/felix-cache/bundle0/bundle.id">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/felix-cache/bundle0/last.java.version">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anwendung/target/classes/META-INF/MANIFEST.MF">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+        <state relative-caret-position="272">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basisklassen/target/classes/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestClass/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anwendung/src/main/java/de/thkoeln/eksc/osgi/client/ActivatorAnwendung.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="827">
+          <caret line="55" column="33" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basisklasse/src/main/java/de/thkoeln/eksc/osgi/zentraledienste/VerwaltungNummern.java">
+    <entry file="file://$PROJECT_DIR$/TestClass/src/main/java/Test_Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/impl1/src/main/java/de/thkoeln/eksc/osgi/VerwaltungNummern/impl/VerwaltungsNummernImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="61" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/asdasd/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/anwendung/src/main/java/de/thkoeln/eksc/osgi/anwendung/main_anwendung.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basisklasse/src/main/java/de/thkoeln/eksc/osgi/entitaetsklassen/alleVeranstalter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
-          <folding>
-            <element signature="e#527#528#0" expanded="true" />
-            <element signature="e#566#567#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basisklasse/src/main/java/de/thkoeln/eksc/osgi/entitaetsklassen/Veranstalter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="43" column="28" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="28" />
-          <folding>
-            <element signature="e#1205#1206#0" expanded="true" />
-            <element signature="e#1234#1235#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/impl1/src/main/java/de/thkoeln/eksc/osgi/VerwaltungNummern/impl/ActivatorImpl_VerwaltungNummernImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-line="25" />
+        <state relative-caret-position="239">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#608#623#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/impl2/src/main/java/de/thkoeln/eksc/osgi/ReiseVeranstalterVerwaltung/impl/ActivatorImpl_ReiseVeranstalterVerwaltungImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/impl2/src/main/java/de/thkoeln/eksc/osgi/ReiseVeranstalterVerwaltung/impl/ReiseVeranstalterVerwaltungImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1728#1729#0" expanded="true" />
-            <element signature="e#1775#1776#0" expanded="true" />
-            <element signature="e#2023#2024#0" expanded="true" />
-            <element signature="e#2050#2051#0" expanded="true" />
-            <element signature="e#2620#2627#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -677,6 +544,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited>felix</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -700,7 +568,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>anwendung</last-edited>
+          <last-edited>impl2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -725,7 +593,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: org.apache.felix:org.apache.felix.framework:6.0.1</last-edited>
+          <last-edited>Maven: org.osgi:org.osgi.core:6.0.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -736,5 +604,9 @@
         </settings>
       </state>
     </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="install" />
   </component>
 </project>

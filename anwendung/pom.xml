@@ -5,11 +5,43 @@
     <parent>
         <artifactId>EKSC</artifactId>
         <groupId>de.thkoeln.eksc</groupId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-
     <artifactId>anwendung</artifactId>
+    <packaging>bundle</packaging>
+    <dependencies>
+        <dependency>
+            <groupId>de.thkoeln.eksc</groupId>
+            <artifactId>basisklassen</artifactId>
+            <version>1.0</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>de.thkoeln.eksc</groupId>
+            <artifactId>impl2</artifactId>
+            <version>1.0</version>
+            <scope>provided</scope>
+        </dependency>
+    </dependencies>
+<build>
+    <plugins>
+        <plugin>
+            <groupId>org.apache.felix</groupId>
+            <artifactId>maven-bundle-plugin</artifactId>
+            <version>3.3.0</version>
+            <extensions>true</extensions>
+            <configuration>
+                <instructions>
+                    <Import-Package>org.osgi.framework,
+                        de.thkoeln.eksc.osgi.entitaetsklassen,
+                        de.thkoeln.eksc.osgi.reiseverwaltung</Import-Package>
+                    <Bundle-Activator>de.thkoeln.eksc.osgi.client.ActivatorAnwendung</Bundle-Activator>
+                </instructions>
+            </configuration>
+        </plugin>
+    </plugins>
+</build>
 
 
 </project>

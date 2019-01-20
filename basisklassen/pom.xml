@@ -8,19 +8,9 @@
         <version>1.0</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-    <artifactId>impl1</artifactId>
+    <artifactId>basisklassen</artifactId>
     <version>1.0</version>
     <packaging>bundle</packaging>
-    
-
-<dependencies>
-    <dependency>
-        <groupId>de.thkoeln.eksc</groupId>
-        <artifactId>basisklassen</artifactId>
-        <version>1.0</version>
-        <scope>compile</scope>
-    </dependency>
-</dependencies>
 
 
     <build>
@@ -28,16 +18,16 @@
             <plugin>
                 <groupId>org.apache.felix</groupId>
                 <artifactId>maven-bundle-plugin</artifactId>
-                <extensions>true</extensions>
                 <version>3.3.0</version>
+                <extensions>true</extensions>
                 <configuration>
                     <instructions>
-                        <Import-Package>org.osgi.framework, de.thkoeln.eksc.osgi.zentraledienste, de.thkoeln.eksc.osgi.entitaetsklassen</Import-Package>
-                        <Bundle-Activator>de.thkoeln.eksc.osgi.zentraledienste.impl.ActivatorImpl_VerwaltungNummernImpl</Bundle-Activator>
-                        <Private-Package>de.thkoeln.eksc.osgi.zentraledienste.impl</Private-Package>
+                        <Import-Package>org.osgi.framework</Import-Package>
+                        <Export-Package>de.thkoeln.eksc.osgi.entitaetsklassen, de.thkoeln.eksc.osgi.reiseverwaltung, de.thkoeln.eksc.osgi.zentraledienste</Export-Package>
                     </instructions>
                 </configuration>
             </plugin>
         </plugins>
     </build>
+
 </project>
