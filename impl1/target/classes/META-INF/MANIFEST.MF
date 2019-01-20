@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1548011870034
+Build-Jdk: 1.8.0_181
+Built-By: Dustin
+Bundle-Activator: de.thkoeln.eksc.osgi.zentraledienste.impl.ActivatorImp
+ l_VerwaltungNummernImpl
+Bundle-ManifestVersion: 2
+Bundle-Name: impl1
+Bundle-SymbolicName: de.thkoeln.eksc.impl1
+Bundle-Version: 1.0.0
+Created-By: Apache Maven Bundle Plugin
+Import-Package: org.osgi.framework;version="[1.8,2)",de.thkoeln.eksc.osg
+ i.zentraledienste;version="[1.0,2)",de.thkoeln.eksc.osgi.entitaetsklass
+ en;version="[1.0,2)"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Tool: Bnd-3.3.0.201609221906

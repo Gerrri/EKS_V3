@@ -36,7 +36,7 @@
                     <Import-Package>org.osgi.framework,
                         de.thkoeln.eksc.osgi.entitaetsklassen,
                         de.thkoeln.eksc.osgi.reiseverwaltung</Import-Package>
-                    <Bundle-Activator>de.thkoeln.eksc.osgi.client.ActivatorAnwendung</Bundle-Activator>
+                    <Bundle-Activator>de.thkoeln.eksc.anwendung.ActivatorAnwendung</Bundle-Activator>
                 </instructions>
             </configuration>
         </plugin>

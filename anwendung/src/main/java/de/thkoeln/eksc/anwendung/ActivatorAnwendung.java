@@ -1,4 +1,4 @@
-package de.thkoeln.eksc.osgi.client;
+package de.thkoeln.eksc.anwendung;
 
 import de.thkoeln.eksc.osgi.entitaetsklassen.Reise;
 import de.thkoeln.eksc.osgi.entitaetsklassen.Veranstalter;

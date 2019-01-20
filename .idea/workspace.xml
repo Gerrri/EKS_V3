@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73b25e2c-219d-4a07-9059-07ac70850ed7" name="Default Changelist" comment="" />
+    <list default="true" id="73b25e2c-219d-4a07-9059-07ac70850ed7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestClass/target/Mainclass-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/TestClass/target/Mainclass-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestClass/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/TestClass/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anwendung/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/anwendung/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anwendung/src/main/java/de/thkoeln/eksc/osgi/client/ActivatorAnwendung.java" beforeDir="false" afterPath="$PROJECT_DIR$/anwendung/src/main/java/de/thkoeln/eksc/anwendung/ActivatorAnwendung.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anwendung/target/anwendung-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/anwendung/target/anwendung-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anwendung/target/classes/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/anwendung/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anwendung/target/classes/de/thkoeln/eksc/osgi/client/ActivatorAnwendung.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/anwendung/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/anwendung/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basisklassen/target/basisklassen-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/basisklassen/target/basisklassen-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basisklassen/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/basisklassen/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impl1/target/impl1-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/impl1/target/impl1-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impl1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/impl1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impl2/target/impl2-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/impl2/target/impl2-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impl2/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/impl2/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/impl1/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/basisklassen/target/" />
@@ -19,7 +36,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/anwendung/src/main/java/de/thkoeln/eksc/osgi/client/ActivatorAnwendung.java">
+        <entry file="file://$PROJECT_DIR$/anwendung/src/main/java/de/thkoeln/eksc/anwendung/ActivatorAnwendung.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="827">
               <caret line="55" column="33" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
@@ -30,14 +47,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestClass/src/main/java/Test_Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
+            <state relative-caret-position="308">
               <caret line="86" selection-start-line="86" selection-end-line="86" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="107">
+              <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -56,6 +82,9 @@
     <findStrings>
       <find>de.thkoeln.eks.impl1</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -125,11 +154,12 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-9" />
     <option name="width" value="1298" />
     <option name="height" value="1399" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -153,9 +183,9 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548011622921" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548012916400" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -236,7 +266,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16133866" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2882118" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -246,7 +276,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3279678" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.63380283" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2826962" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -261,7 +291,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" weight="0.34665334" />
+      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.34665334" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
@@ -461,13 +491,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/felix-cache/bundle0/bundle.id">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -495,7 +518,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/anwendung/src/main/java/de/thkoeln/eksc/osgi/client/ActivatorAnwendung.java">
+    <entry file="file://$PROJECT_DIR$/anwendung/src/main/java/de/thkoeln/eksc/anwendung/ActivatorAnwendung.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="827">
           <caret line="55" column="33" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
@@ -507,11 +530,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TestClass/src/main/java/Test_Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
+        <state relative-caret-position="308">
           <caret line="86" selection-start-line="86" selection-end-line="86" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -568,7 +598,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>impl2</last-edited>
+          <last-edited>anwendung</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
